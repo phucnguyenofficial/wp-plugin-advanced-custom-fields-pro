@@ -1,0 +1,12 @@
+{  
+  "name": "yivic/advanced-custom-fields-pro",
+  "type": "wordpress-muplugin",
+  "description": "Customize WordPress with powerful, professional and intuitive fields.",
+  "authors": [
+    {
+      "name": "Yivic",
+      "email": "contact@yivic.com",
+      "homepage": "https://yivic.com"
+    }
+  ]
+}
