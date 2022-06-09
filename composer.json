@@ -1,6 +1,6 @@
 {  
   "name": "yivic/advanced-custom-fields-pro",
-  "type": "wordpress-muplugin",
+  "type": "wordpress-plugin",
   "description": "Customize WordPress with powerful, professional and intuitive fields.",
   "authors": [
     {
